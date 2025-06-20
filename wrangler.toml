@@ -1,3 +1,4 @@
 name = "wewe-rss"
 main = "apps/server/dist/main.js" # 构建后的入口
 compatibility_date = "2025-06-19"
+compatibility_flags = ["nodejs_compat"]
